@@ -3,7 +3,7 @@ Bootstrap 5 Framework colours Palette for GIMP and Inkscape
 
 Use Alpha 1 .gpl file. It is the latest as of 17/06/2020.
 
-![Bootstrap-5-colours](https://raw.githubusercontent.com/meetdilip/Bootstrap-5-colours/master/Bootstrap%20v5%20Colours.png)
+![bootstrap-5.3.2 colours](https://github.com/sk-rama/howto/blob/main/inkscape/palettes/bootstrap-5.3.2/bootstrap-5.3.2-colours.png)
 
 How to use ?
 
